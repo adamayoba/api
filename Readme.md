@@ -1,6 +1,6 @@
-Les endpoints disponible sur ce api:
+Les endpoints disponible sur cette api:
 
-pour ce api j'ai utilisé comme server Apache :
+pour cette api j'ai utilisé comme server Apache :
 phpmyadmin 
 
 J'ai du configurer l'hôte virtuel d'Apache pour pointer mon dossier 
